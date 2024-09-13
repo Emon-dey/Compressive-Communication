@@ -1,1 +1,0 @@
-CS ratio is 20, Avg PSNR/SSIM for Set11 is 33.36/0.9803CS ratio is 20, Avg PSNR/SSIM for Set11 is 33.36/0.9803CS ratio is 20, Avg PSNR/SSIM for Set11 is 34.05/0.9819
