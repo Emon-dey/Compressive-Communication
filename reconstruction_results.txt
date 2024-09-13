@@ -1,0 +1,11 @@
+Reconstructed data/fingerprint_measurements.npy with PSNR: 12.27, SSIM: 0.6198
+Reconstructed data/boats_measurements.npy with PSNR: 12.98, SSIM: 0.6545
+Reconstructed data/peppers256_measurements.npy with PSNR: 11.90, SSIM: 0.6098
+Reconstructed data/house_measurements.npy with PSNR: 13.39, SSIM: 0.6988
+Reconstructed data/lena256_measurements.npy with PSNR: 12.87, SSIM: 0.6478
+Reconstructed data/Parrots_measurements.npy with PSNR: 12.97, SSIM: 0.7063
+Reconstructed data/cameraman_measurements.npy with PSNR: 11.54, SSIM: 0.6196
+Reconstructed data/barbara_measurements.npy with PSNR: 12.92, SSIM: 0.6480
+Reconstructed data/flinstones_measurements.npy with PSNR: 10.76, SSIM: 0.5279
+Reconstructed data/Monarch_measurements.npy with PSNR: 11.73, SSIM: 0.5908
+Reconstructed data/foreman_measurements.npy with PSNR: 13.17, SSIM: 0.7135

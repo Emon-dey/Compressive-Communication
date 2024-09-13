@@ -1,0 +1,5 @@
+[01/05] CS Ratio: 70, Total Loss: 0.0091
+[02/05] CS Ratio: 70, Total Loss: 0.0115
+[03/05] CS Ratio: 70, Total Loss: 0.0015
+[04/05] CS Ratio: 70, Total Loss: 0.0054
+[05/05] CS Ratio: 70, Total Loss: 0.0097
