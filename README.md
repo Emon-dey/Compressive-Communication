@@ -18,6 +18,6 @@ Clone the github repository to the host computed and modify the directories for 
 # Training the model
 
 ```
-1. Download the training data from [here](https://drive.google.com/file/d/14CKidNsC795vPfxFDXa1FH9QuNJKE3cp/view) and keep the file in the ~/data folder.
+1. Download the training data from <a href="https://drive.google.com/file/d/14CKidNsC795vPfxFDXa1FH9QuNJKE3cp/view">here</a> and keep the file in the ~/data folder.
 2. Run either quantized_training.py or quantized_training_16.py to generate the lightweight models for int8 and FP16 quantization.
 ```
