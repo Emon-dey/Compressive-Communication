@@ -1,5 +1,4 @@
 # Compressive-Communication
-# RobSenCom
 This repository includes the codes for the paper paper under review named 'Scalable and Efficient Adaptive Data Transmission for Resource-Constrained Robotic Networks'. In this work we propose an adaptive transmission framework to vary the sliding window size and also the data quantizationn bit size based on the physical layer properties. 
 
 # Running transmission and receiver codes
@@ -17,7 +16,7 @@ Clone the github repository to the host computed and modify the directories for 
 3. For receiver, run either reconstruction.py or reconstruction_16.py for the respective quantization bit size.
 
 ```
-# Traning the model
+# Training the model
 
 ```
 Run eithre quantized_training.py or quantized_training_16.py to generate the lightweight models for int8 and FP16 quantization.
